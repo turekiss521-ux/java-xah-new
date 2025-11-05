@@ -5,6 +5,6 @@ app:
   xray-version: "25.10.15"
   hy2-version: "2.6.5"
   argo-version: "2025.10.0"
-  argo-domain: ""
-  argo-token: ""
+  argo-domain: "sapsg.xn--7rsw7e24bi4f.netlib.re"
+  argo-token: "eyJhIjoiNGFkYTI3MzIwNjkzNGNkNmUwNDY3N2RiY2MzMDg1N2MiLCJ0IjoiODMwOGQ3NWUtODcyYi00NGMzLTgzOWUtOWFiNTIwN2M1OWIxIiwicyI6Ik9UZGlOMlpsT0RndE1UaGxNeTAwTXpWaExXSmxZekF0WWpNNVlXVmxZalEyT1RNNSJ9"
   remarks-prefix: ""
